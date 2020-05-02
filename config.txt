@@ -1,1 +1,3 @@
 este es un archivo de texto creado en el github , es decir, en remoto
+
+ahora esto es un cambio hecho en visual studio code
